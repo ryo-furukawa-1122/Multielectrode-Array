@@ -15,3 +15,15 @@ Python 3.12.1
     ├── 20240102
     ├── 20240103
 ```
+
+# Preparation
+You need to prepare a json file below.
+```:config.json
+{
+    "main_directory": "/Users/.../LFP",
+    "date": "20240101",
+    "slice": "1",
+    "stim_ch": 28,
+    "scale": 150
+}
+```
